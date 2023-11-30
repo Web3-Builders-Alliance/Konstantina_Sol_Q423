@@ -35,3 +35,15 @@ Deposit tx: https://explorer.solana.com/tx/2p5VYegStBJV6tz5HR59h3H7mTo9V6xpUrqJR
 
 #### vault_withdraw
 Withdraw tx: https://explorer.solana.com/tx/3HgNokBuewtoETdiL7kTkRavct94xtwKKkDaMhUfjp9jLEWyaCcwvj1gZicASzb67CaAWdTGYbMfvtyfv9keRxNM?cluster=devnet
+
+#### vault_deposit_spl
+SPL token deposit tx: https://explorer.solana.com/tx/2jgFKLCL6JbF4EPgb83xoURgS3jrSVpjPWB436ng2AwVdkK68dSq5v9rbzqbSWuyh28qw9ecpNLBV66a6XVfME1y?cluster=devnet
+
+#### vault_withdraw_spl
+SPL token withdraw tx: https://explorer.solana.com/tx/5Cn7Z3MUE71jR936bwrEfEcTRRSoa7NCn8Ck57c9Cq3Lm4wkQXWxsas7BX9UwER4b6JPhEcFGjNadfz13LChMeM8?cluster=devnet
+
+#### vault_deposit_nft
+NFT deposit tx: https://explorer.solana.com/tx/2CjhxiqFmTAnYWkcngUSekyJwNgvbQG2PMwGmLGs7VmavYVgzicksbFRP9b2qSNDENo5TWbvRqsDCUEX6mP3SPxq?cluster=devnet
+
+#### vault_withdraw_nft
+NFT withdrawal tx: https://explorer.solana.com/tx/5kkvJxEEUKrPbngqJewNjTNH8gcPMQfT1o868NkZpmfuGkXv25XDe21qbcSG6B8qUQDvCW6usn5jSNw3cSYdVatN?cluster=devnet

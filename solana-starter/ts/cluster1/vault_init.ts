@@ -58,7 +58,8 @@ const vault = PublicKey.findProgramAddressSync(
           vaultAuth,
           vault,
           systemProgram: SystemProgram.programId
-      }).signers([keypair, vaultState]).rpc(); // vault state needs to only size in the init, after that my keypair has been set as the owner of the vault and will be the only keypair signing
+      }).signers([keypair, vaultState]).rpc(); // vault state needs to only sign in the init, after that my keypair has been set as the owner of the vault and will be the only keypair signing
+      // that why vaultState had to be a keypair and not a pda?
     console.log(`Init success! Check out your TX here:\n\nhttps://explorer.solana.com/tx/${signature}?cluster=devnet`);
   } catch (e) {
     console.error(`Oops, something went wrong: ${e}`);
