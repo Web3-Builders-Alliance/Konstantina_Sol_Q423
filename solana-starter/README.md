@@ -22,3 +22,16 @@ https://oyny64sxd64jhbre5bw5b5tt24dbxuefppopbhzorwphwlwtjata.arweave.net/dhuPclc
 #### nft_mint
 https://explorer.solana.com/tx/3y9Vt619wroS1yw7xAVg1sLE6Bm8vJ9N8qp96LENd9McWAdbhJoBatrvm2U4PtX8r6itDDGAghhxYB8tj3zmkQd7?cluster=devnet\
 Mint Address:  3aGunJD4bL6mPmmoXhPst2cy5JV2dWMt2MexSoWFBRW5
+
+## Week 2
+
+### Day 1
+#### vault_init
+Vault public key: 2Zqm3K5oDAndEqz9uebfV5p6w54tnyxNgEaog2YgTpLG\
+Init tx: https://explorer.solana.com/tx/65fmm5aZeyunK1GeqF61zUXEVbiHqGtp96F5z45aBY8Nj8thh6qMXDJeJKFHNPRPPayDkZNFm8sF5JgZaoj6sXig?cluster=devnet
+
+#### vault_deposit
+Deposit tx: https://explorer.solana.com/tx/2p5VYegStBJV6tz5HR59h3H7mTo9V6xpUrqJRqUG8BNoCsaXhSJ5ZQeA1ap2ju8kHnJNa69bQiDvwGzBzp8mQ8vN?cluster=devnet
+
+#### vault_withdraw
+Withdraw tx: https://explorer.solana.com/tx/3HgNokBuewtoETdiL7kTkRavct94xtwKKkDaMhUfjp9jLEWyaCcwvj1gZicASzb67CaAWdTGYbMfvtyfv9keRxNM?cluster=devnet
