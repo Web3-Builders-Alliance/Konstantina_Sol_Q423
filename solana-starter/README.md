@@ -47,3 +47,6 @@ NFT deposit tx: https://explorer.solana.com/tx/2CjhxiqFmTAnYWkcngUSekyJwNgvbQG2P
 
 #### vault_withdraw_nft
 NFT withdrawal tx: https://explorer.solana.com/tx/5kkvJxEEUKrPbngqJewNjTNH8gcPMQfT1o868NkZpmfuGkXv25XDe21qbcSG6B8qUQDvCW6usn5jSNw3cSYdVatN?cluster=devnet
+
+#### vault_close
+Vault close tx: https://explorer.solana.com/tx/2JQYtXr6wmxnPjdXMUj732qZ78N5nFbFemEArktg8iEfzZh2zPLF7ETb2GNEDGHMjuk7mMGT93sMA17mUf3mGGCP?cluster=devnet
